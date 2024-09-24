@@ -59,7 +59,7 @@ Create a `venv` and install dependencies:
     pip install -r requirements.txt
 ``` 
 
-Create a `.env` file inside `config/` folder with user and password of RabbitMQ:
+Create a `.env` file inside `config/` folder:
 
 ```bash
     # .env content'
